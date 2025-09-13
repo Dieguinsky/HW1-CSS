@@ -1,0 +1,47 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    font-size: 150%;
+    text-align: center;
+}
+
+nav {
+    background-color: #ffffff;
+    text-align: left !important;
+    display: table;
+
+}
+
+header {
+    background-color: antiquewhite;
+
+}
+
+main {
+    background-color: antiquewhite;
+    font-size: 100%;
+}
+
+footer {
+    background-color: rgb(241, 172, 80);
+
+}
+
+li{
+    display: inline-block;
+    width: auto;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    line-height: 1.5;
+}
+img{
+    width: 250px;
+}
